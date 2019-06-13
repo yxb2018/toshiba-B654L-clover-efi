@@ -19,12 +19,14 @@ SMI2246EN+HYNIX FLASH (DIY 512 GB / SSD)
 
 Display
 Toshiba TOS508F Internal LCD ( 15.5 inches )
+Toshiba Internal 1920x1080 Panel
 
 Optical drive
 Panasonic DVD-RAM UJ8E2 DVD Recorder
 
 Sound card
-Raychem @Intel Lynx Point High Definition Audio
+Raychem @Intel Lynx Point High Definition Audio\
+Realtek ALC283 @ Intel Lynx Point PCH
 
 Network card
 Intel Ethernet Connection I217-LM / Toshiba
