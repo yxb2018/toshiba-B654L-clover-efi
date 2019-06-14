@@ -49,4 +49,4 @@ Operating system
 Not working hardware:
 1 wireless network card
 2 Bluetooth
-3 SD card reader
+
