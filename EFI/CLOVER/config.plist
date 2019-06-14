@@ -635,7 +635,7 @@
 		<key>BoardManufacturer</key>
 		<string>Apple Inc.</string>
 		<key>BoardSerialNumber</key>
-		<string>C17408700J9FH31A8</string>
+		<string>C17405200CDFH31JC</string>
 		<key>BoardType</key>
 		<integer>10</integer>
 		<key>BoardVersion</key>
@@ -663,9 +663,9 @@
 		<key>ProductName</key>
 		<string>MacBookPro11,1</string>
 		<key>SerialNumber</key>
-		<string>C17M90NXFH00</string>
+		<string>C17M63Z4FH00</string>
 		<key>SmUUID</key>
-		<string>2C2FA39D-DB40-4986-B1C5-17428F0DDD0B</string>
+		<string>8C8D17A2-1A0F-4093-B7FA-C7177A69192F</string>
 		<key>Trust</key>
 		<true/>
 		<key>Version</key>
@@ -676,7 +676,7 @@
 		<key>BacklightLevel</key>
 		<string>0x0301</string>
 		<key>CustomUUID</key>
-		<string>D8BD2338-D134-42EA-91C7-F47593FE26AB</string>
+		<string>5EC4F000-E83D-55BA-B1CB-BBB03F2427FC</string>
 		<key>InjectKexts</key>
 		<string>Yes</string>
 		<key>InjectSystemID</key>
