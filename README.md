@@ -17,6 +17,10 @@ Memory
 Main hard disk
 SMI2246EN+HYNIX FLASH (DIY 512 GB / SSD)
 
+SD Card Reader
+Realtek RTS5227 PCI-E Card Reader
+ID 10EC-5227
+
 Display
 Toshiba TOS508F Internal LCD ( 15.5 inches )
 Toshiba Internal 1920x1080 Panel
