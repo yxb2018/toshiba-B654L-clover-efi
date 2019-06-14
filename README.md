@@ -54,3 +54,16 @@ Not working hardware:
 1 wireless network card
 2 Bluetooth
 
+==============================================================================
+
+
+BUG
+1，
+Insert sd card failed to start
+Sinetek-rtsx.kext
+
+2，
+Sleep start failed
+
+
+
