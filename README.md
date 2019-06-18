@@ -50,10 +50,8 @@ BIOS version Version 4.20 / BIOS release date: 04/18/2014
 Operating system
 10.14.6 Beta (18G48f)
 
-Not working hardware:
-1 wireless network card
-2 Bluetooth
-
+No drive
+intel ac7260(wifi&bluetooth)
 ==============================================================================
 
 bug   
