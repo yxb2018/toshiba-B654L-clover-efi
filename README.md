@@ -9,7 +9,7 @@ Motherboard
 Toshiba dynabook Satellite B654/L ( Lynx Point )
 
 Graphics card
-Intel HD Graphics 4600 ( 112 MB / Toshiba)
+Intel HD Graphics 4600 ( 2048 MB / Toshiba)
 
 Memory 
 8 GB (Samsung)
@@ -35,30 +35,29 @@ Realtek ALC283 @ Intel Lynx Point PCH
 Network card
 Intel Ethernet Connection I217-LM / Toshiba
 
-Wifi
+Wifi & Bluetooth
 Intel Dual Band Wireless-AC 7260
 
-Bluetooth
-Intel Dual Band Wireless-AC 7260
+========================================================================================
 
 Motherboard model Toshiba dynabook Satellite B654/L
 Chipset Lynx Point
 BIOS version Version 4.20 / BIOS release date: 04/18/2014
 
-============================================================================================================================
+========================================================================================
 
 Operating system
 10.14.6 Beta (18G48f)
 
 No drive
 intel ac7260(wifi&bluetooth)
-==============================================================================
+========================================================================================
 
 bug   
 Sinetek-rtsx.kext
-(sd card reader driver)
-Insert sd card failed to start
-Sleep start failed
+(sd card reader driver)。
+Insert sd card failed to start。Sleep start failed。Easy to crash。
+========================================================================================
 
 
 
