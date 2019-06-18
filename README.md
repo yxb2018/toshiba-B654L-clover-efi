@@ -56,13 +56,10 @@ Not working hardware:
 
 ==============================================================================
 
-
-BUG
-1，
-Insert sd card failed to start
+bug   
 Sinetek-rtsx.kext
-
-2，
+(sd card reader driver)
+Insert sd card failed to start
 Sleep start failed
 
 
