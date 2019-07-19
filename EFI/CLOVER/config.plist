@@ -88,17 +88,25 @@
 		</array>
 		<key>FixHeaders</key>
 		<true/>
+		<key>SSDT</key>
+		<dict>
+			<key>DropOem</key>
+			<false/>
+		</dict>
 		<key>SortedOrder</key>
 		<array>
 			<string>SSDT-PNLF.aml</string>
 			<string>SSDT-SMBUS.aml</string>
 			<string>SSDT-FN.aml</string>
+			<string>SSDT-DDGPU.aml</string>
+			<string>SSDT-EC.aml</string>
+			<string>SSDT-UIAC.aml</string>
 		</array>
 	</dict>
 	<key>Boot</key>
 	<dict>
 		<key>Arguments</key>
-		<string>debug=0x100</string>
+		<string>debug=0x100 -f</string>
 		<key>DefaultVolume</key>
 		<string>MacOS</string>
 		<key>NoEarlyProgress</key>
@@ -240,7 +248,7 @@
 						<string>subsystem-id</string>
 						<key>Value</key>
 						<data>
-						cHIAAA==
+						JowAAA==
 						</data>
 					</dict>
 					<dict>
@@ -301,7 +309,7 @@
 						<string>subsystem-id</string>
 						<key>Value</key>
 						<data>
-						cHIAAA==
+						LYwAAA==
 						</data>
 					</dict>
 					<dict>
@@ -374,7 +382,7 @@
 						<string>subsystem-id</string>
 						<key>Value</key>
 						<data>
-						cHIAAA==
+						MYwAAA==
 						</data>
 					</dict>
 					<dict>
@@ -434,11 +442,36 @@
 						<key>Key</key>
 						<string>compatible</string>
 						<key>Value</key>
-						<string>pci8086,9c43</string>
+						<string>pci8086,8c4f</string>
 					</dict>
 				</array>
 				<key>PciAddr</key>
 				<string>00:1F.00</string>
+			</dict>
+			<dict>
+				<key>Comment</key>
+				<string>RTS5227</string>
+				<key>CustomProperties</key>
+				<array>
+					<dict>
+						<key>Disabled</key>
+						<false/>
+						<key>Key</key>
+						<string>subsystem-id</string>
+						<key>Value</key>
+						<string>34810000</string>
+					</dict>
+					<dict>
+						<key>Disabled</key>
+						<false/>
+						<key>Key</key>
+						<string>subsystem-vendor-id</string>
+						<key>Value</key>
+						<string>17120000</string>
+					</dict>
+				</array>
+				<key>PciAddr</key>
+				<string>00:1C.00</string>
 			</dict>
 		</array>
 		<key>Properties</key>
@@ -483,7 +516,7 @@
 			<true/>
 		</dict>
 		<key>ScreenResolution</key>
-		<string>1600x900</string>
+		<string>1920x1080</string>
 		<key>Theme</key>
 		<string>mNight</string>
 	</dict>
@@ -635,7 +668,7 @@
 		<key>BoardManufacturer</key>
 		<string>Apple Inc.</string>
 		<key>BoardSerialNumber</key>
-		<string>C17405200CDFH31JC</string>
+		<string>C17408700J9FH31A8</string>
 		<key>BoardType</key>
 		<integer>10</integer>
 		<key>BoardVersion</key>
@@ -663,9 +696,9 @@
 		<key>ProductName</key>
 		<string>MacBookPro11,1</string>
 		<key>SerialNumber</key>
-		<string>C17M63Z4FH00</string>
+		<string>C17M90NXFH00</string>
 		<key>SmUUID</key>
-		<string>8C8D17A2-1A0F-4093-B7FA-C7177A69192F</string>
+		<string>2C2FA39D-DB40-4986-B1C5-17428F0DDD0B</string>
 		<key>Trust</key>
 		<true/>
 		<key>Version</key>
@@ -674,11 +707,11 @@
 	<key>SystemParameters</key>
 	<dict>
 		<key>BacklightLevel</key>
-		<string>0x0301</string>
+		<string>0x0101</string>
 		<key>CustomUUID</key>
-		<string>5EC4F000-E83D-55BA-B1CB-BBB03F2427FC</string>
+		<string>D8BD2338-D134-42EA-91C7-F47593FE26AB</string>
 		<key>InjectKexts</key>
-		<string>Yes</string>
+		<string>Detect</string>
 		<key>InjectSystemID</key>
 		<true/>
 	</dict>
