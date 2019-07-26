@@ -54,10 +54,13 @@ intel ac7260(wifi&bluetooth)
 ========================================================================================
 
 bug   
-Sinetek-rtsx.kext
+Sinetek-rtsx.kext+VirtualSMC.kext
 (sd card reader driver)。
 Insert sd card failed to start。Sleep start failed。Easy to crash。
 ========================================================================================
+delete VirtualSMC.kext
+use FackSMC
+20190726
 
 
 
