@@ -46,7 +46,7 @@ BIOS version Version 4.20 / BIOS release date: 04/18/2014
 
 ========================================================================================
 
-Operating system
+system Version
 10.14.6 Beta (18G48f)
 
 No drive
@@ -59,8 +59,10 @@ Sinetek-rtsx.kext+VirtualSMC.kext
 Insert sd card failed to start。Sleep start failed。Easy to crash。
 ========================================================================================
 delete VirtualSMC.kext
-use FackSMC
+use FakeSMC.kext
 20190726
+system Version
+10.14.6 (18G84)
 
 
 
