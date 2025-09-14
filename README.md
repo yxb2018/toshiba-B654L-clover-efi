@@ -65,4 +65,21 @@ system Version
 10.14.6 (18G84)
 
 
+upgrade:
+OC-1.05,monterey
+
+Drive Status
+Optical drive Panasonic DVD-RAM UJ8E2 DVD Recorder ✔
+Sound card Raychem @Intel Lynx Point High Definition Audio ✔
+Realtek ALC283 @ Intel Lynx Point PCH ✔
+Network card Intel Ethernet Connection I217-LM / Toshiba ✔
+Wifi & Bluetooth BCM94352 & BCM20701A0  ✔
+
+Usage Status
+FACETIME Imessage ✔ (You need to regenerate the SN code before use to ensure that FACETIME can work normally)
+USB ✔
+Sleep ✔
+Backlight ✔
+AirDrop ✔
+
 
